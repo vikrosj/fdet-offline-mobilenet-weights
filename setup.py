@@ -7,14 +7,14 @@ EMAIL = 'viktoria.rosjo@gmail.com'
 VERSION = '1.0.0'
 
 setup_args = dict(
-    name='fdet_offline_mtcnn_weights',
+    name='fdet_offline_mobilenet_weights',
     version=VERSION,
     author=AUTHOR,
     author_email=EMAIL,
     maintainer=AUTHOR,
     maintainer_email=EMAIL,
-    url='https://github.com/vikrosj/fdet-offline-mtcnn-weights',
-    download_url='https://github.com/vikrosj/fdet-offline-mtcnn-weights/archive/1.0.0.tar.gz',
+    url='https://github.com/vikrosj/fdet_offline_mobilenet_weights',
+    download_url='https://github.com/vikrosj/fdet_offline_mobilenet_weights/archive/1.0.0.tar.gz',
     include_package_data=True,
     description='Weights for the models in fdet-offline.',
     long_description=open('README.md').read(),
